@@ -1,0 +1,29 @@
+patch:
+  style:
+    color_scheme: solarized_dark
+    candidate_list_layout: linear
+    text_orientation: horizontal
+    inline_preedit: true
+    inline_candidate: false
+    memorize_size: true
+    mutual_exclusive: false
+    translucency: false
+    corner_radius: 7
+    hilited_corner_radius: 0
+    border_height: -2
+    border_width: -2
+    line_spacing: 5
+    spacing: 8
+    shadow_size: 0
+    candidate_format: "[label]. [candidate] [comment]"
+    font_face: "Avenir"
+    font_point: 16
+  app_options:
+    com.apple.Spotlight:
+      ascii_mode: true
+    com.microsoft.VSCode:
+      ascii_mode: false
+    com.mitchellh.ghostty:
+      ascii_mode: true
+    com.raycast.macos:
+      ascii_mode: true
