@@ -1,4 +1,5 @@
 patch:
+  switches/@0/reset: 1
   "menu/page_size": 6
   schema_list:
     - schema: rime_ice
